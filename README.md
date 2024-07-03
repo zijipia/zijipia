@@ -1,4 +1,4 @@
-![okk](./Assets/ZijiAvt.gif) ![okk](./Assets/ZijiRight.gif)
+![okk](./Assets/ZijiAvt.gif)
 - [x] Hello <3
 - [x] [<img src="./Assets/ok2.gif" width="15"/>](./Assets/ok2.gif)[Youtube](https://www.youtube.com/@ZijiNightcore)
 - [x] [<img src="./Assets/Discord.gif" width="15"/>](./Assets/Discord.gif)[Discord](https://discord.com/invite/zaskhD7PTW)
