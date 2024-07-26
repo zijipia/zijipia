@@ -1,4 +1,4 @@
-![okk](./Assets/ZijiAvt.gif)
+![okk](./Assets/blink_of_an_eye_42f4ce-ezgif.com-video-to-gif-converter.gif)
 ### Hello <3
 - [x] [<img src="./Assets/ok2.gif" width="15"/>](./Assets/ok2.gif)[Youtube](https://www.youtube.com/@ZijiNightcore)
 - [x] [<img src="./Assets/Discord.gif" width="15"/>](./Assets/Discord.gif)[Discord](https://discord.com/invite/zaskhD7PTW)
