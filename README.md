@@ -42,4 +42,4 @@
 
 ---
 
-⭐ **Fun Fact:** `while(!success) { keepCoding(); }`  
+⭐ **Fun Fact:** `for(;;){ keepCoding(); }`  
