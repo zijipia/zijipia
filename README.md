@@ -35,7 +35,7 @@
 ---
 
 ### 🌍 Connect with Me:
-- 🌐 **Website:** [Ziji](https://ziji.vercel.app/)
+- 🌐 **Website:** [Ziji](https://ziji.world/)
 - 💬 **Discord:** [Ziji](https://discord.gg/5bG56bKk)
 - ▶ **YouTube:** [@ZijiStudio](https://www.youtube.com/@ZijiStudio) / [@ZijiNightcore](https://www.youtube.com/@ZijiNightcore)
 - 🐦 **Twitter:** [@ZijiPia](https://twitter.com/ZijiNightcore)
