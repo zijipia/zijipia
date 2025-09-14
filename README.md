@@ -14,7 +14,8 @@
   <img src="./github-metrics.svg" alt="Metrics" />
 </td>
 <td width="50%">
-   🔥 GitHub Stats:
+  
+   🔥**GitHub Stats**:
   
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=zijipia&show_icons=true&theme=radical" width="100%" />
@@ -23,7 +24,7 @@
   
 ---
   
- 🌍 Connect with Me:
+ 🌍 **Connect with Me**:
 - 🌐 **Website:** [Ziji](https://ziji.world/)
 - 💬 **Discord:** [Ziji](https://discord.gg/5bG56bKk)
 - ▶ **YouTube:** [@ZijiStudio](https://www.youtube.com/@ZijiStudio) / [@ZijiNightcore](https://www.youtube.com/@ZijiNightcore)
