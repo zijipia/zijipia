@@ -8,33 +8,22 @@
 
 ---
 
-### 🛠 Tech Stack:
-- 💻 **Languages:** JavaScript, C++, Matlab
-- ⚙️ **Backend:** Node.js, Mongoose
-- 🌐 **Frontend:** Next.js, React.js, TailwindCSS
-- 🛡️ **Security:** JWT, OAuth2
-- 🗄 **Databases:** MongoDB, MySQL
-- 🎵 **Discord Bots:** discord.js, discord-player, custom extractors
-- 📡 **IoT & Automation:** WebSockets, REST APIs, MQTT
-
+<table>
+<tr>
+<td width="50%">
+  <img src="./github-metrics.svg" alt="Metrics" />
+</td>
+<td width="50%">
+   🔥 GitHub Stats:
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=zijipia&show_icons=true&theme=radical" width="100%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=zijipia&theme=radical&hide_border=true" width="100%" />
+  </p>
+  
 ---
-
-### 🚀 Projects:
-- 🎤 **[Ziji Bot](https://github.com/zijipia/Ziji-bot-discord)** – A powerful Discord bot with music, moderation, and custom extractors.
-- 🖥 **Dashboard & API** – A Next.js-powered dashboard with Discord authentication and a Node.js backend.
-- 📦 **Library Inventory System** – A warehouse management system integrated with IoT devices.
-
----
-
-### 🔥 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zijipia&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zijipia&theme=radical&hide_border=true" width="48%" />
-</p>
-
----
-
-### 🌍 Connect with Me:
+  
+ 🌍 Connect with Me:
 - 🌐 **Website:** [Ziji](https://ziji.world/)
 - 💬 **Discord:** [Ziji](https://discord.gg/5bG56bKk)
 - ▶ **YouTube:** [@ZijiStudio](https://www.youtube.com/@ZijiStudio) / [@ZijiNightcore](https://www.youtube.com/@ZijiNightcore)
@@ -42,4 +31,10 @@
 
 ---
 
-⭐ **Fun Fact:** `for(;;){ keepCoding(); }`  
+⭐ **Fun Fact:** 
+
+    for(;;){ keepCoding(); }
+
+</td>
+</tr>
+</table>
