@@ -1,10 +1,8 @@
 <h1 align="center">🚀 Ziji | Electrical Engineer & Discord Bot Engineer & AE Editor</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=03DAC6&center=true&vCenter=true&repeat=true&width=435&lines=Hello+World!;Welcome+to+my+GitHub!;Coding+the+future..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=03DAC6&center=true&vCenter=true&repeat=true&width=435&lines=Hello+World!;Welcome+to+my+GitHub!;Coding+the+future...;Ziji" alt="Typing SVG" />
 </p>
-
----
 
 <table>
 <tr>
